@@ -8,6 +8,11 @@ Take a screenshot by specifying two points from the content drawn in the web bro
 ## environment
 - Python 3.7.9
 
+## preparation
+Please download the chrome driver that suits your environment in advance.
+
+https://googlechromelabs.github.io/chrome-for-testing/
+
 ## how to use
 1. Rewrite the contents of chrom_run.bat appropriately and manually open the page you want to take a screenshot of.
 2. Run coordinate_screenshot.py, click the two points with the mouse, and enter the file name.

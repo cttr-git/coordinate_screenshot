@@ -1,4 +1,5 @@
 # coordinate_screenshot
+Take a screenshot by specifying two points from the content drawn in the web browser.
 
 ## files
 - coordinate_screenshot.py : executable file
